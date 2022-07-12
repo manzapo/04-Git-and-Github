@@ -6,12 +6,11 @@ Clone dari [repository](https://github.com/impactbyte/full-stack-web-assignments
 
 ## Daftar isi
 
-- [The Basics](https://github.com/manzapo/04-Git-and-Github/blob/main/01-the-basics/the-basics.md)
-- [Portfolio and CV](https://github.com/manzapo/04-Git-and-Github/blob/main/02-portfolio-and-cv/portfolio-and-cv.md)
-- [Branch and Merge `masih dalam Bahasa Inggris`](https://github.com/manzapo/04-Git-and-Github/blob/main/03-branch-and-merge/answers.md)
-- [More Advanced `mencari referensi`](https://github.com/manzapo/04-Git-and-Github/tree/main/04-more-advanced/more-advanced.md)
-- [Submit My Changes `draft`](https://github.com/manzapo/04-Git-and-Github/blob/main/05-submit-my-changes/submit-my-changes.md)
-
+- [x] [The Basics](https://github.com/manzapo/04-Git-and-Github/blob/main/01-the-basics/the-basics.md)
+- [x] [Portfolio and CV](https://github.com/manzapo/04-Git-and-Github/blob/main/02-portfolio-and-cv/portfolio-and-cv.md)
+- [ ] [Branch and Merge `masih dalam Bahasa Inggris`](https://github.com/manzapo/04-Git-and-Github/blob/main/03-branch-and-merge/answers.md)
+- [ ] [More Advanced `mencari referensi`](https://github.com/manzapo/04-Git-and-Github/tree/main/04-more-advanced/more-advanced.md)
+- [ ] [Submit My Changes `draft`](https://github.com/manzapo/04-Git-and-Github/blob/main/05-submit-my-changes/submit-my-changes.md)
 
 ## Cara Pengerjaan
 
