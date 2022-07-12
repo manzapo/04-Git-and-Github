@@ -1,6 +1,10 @@
+# Questions
+
+[04-Git-and-Github/03-branch-and-merge/README.md](https://github.com/manzapo/04-Git-and-Github/blob/main/03-branch-and-merge/README.md)
+
 # Answers
 
-1. Remove untracked files from the working tree
+1. Membuang perubahan yang tidak dimasukkan kedalam staging area
 2. - `-d` Normally, when no <path> is specified, git clean will not recurse into untracked directories to avoid removing too much. Specify -d to have it recurse into such directories as well. If any paths are specified, -d is irrelevant; all untracked files matching the specified paths (with exceptions for nested git directories mentioned under `--force`) will be removed.
    - `-f` If the Git configuration variable clean.requireForce is not set to false, git clean will refuse to delete files or directories unless given -f or -i. Git will refuse to modify untracked nested git repositories (directories with a .git subdirectory) unless a second -f is given.
 3. `git branch <branchname>`
