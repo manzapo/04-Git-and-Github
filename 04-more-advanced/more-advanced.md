@@ -6,8 +6,8 @@ Answer the following questions
 3. What is the difference between `git stash pop` and `git stash apply`. When would you use one over the other?
 
 ## Answers
-1. - `git reset` : Reset current HEAD to the specified state. [Reference](https://git-scm.com/docs/git-reset)
-   - `git revert`: Revert some existing commits. [Reference](https://git-scm.com/docs/git-revert)
+1. - `git reset` : Untuk membatalkan commit, kembali ke commit sebelumnya yang diinginkan dan menghapus commit berikutnya.
+   - `git revert`: Untuk menggabungkan commit terbaru dengan commit sebelumnya. Biasanya akan terjadi konflik file namun bisa diselesaikan secara manual.
 
 2. - `git merge` : Join two or more development histories together. [Reference](https://git-scm.com/docs/git-merge)
    - `git rebase` : Reapply commits on top of another base tip. [Reference](https://git-scm.com/docs/git-rebase)
