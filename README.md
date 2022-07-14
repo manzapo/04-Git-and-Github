@@ -17,3 +17,6 @@ Clone dari [repository](https://github.com/impactbyte/full-stack-web-assignments
 Mohon membuat 1 repository Github untuk pengerjaan technical assignment ini. Buatlah masing-masing file didalamnya untuk setiap nomor/project.
 
 Submit Link Repository ke dalam Form Submission.
+
+## Sumber Belajar
+- [git Reference](https://git-scm.com/docs)
